@@ -1,0 +1,10 @@
+C:\Users\Joerasmus\source\repos\Vaccine_Reg\Vaccine_Reg\bin\Debug\Vaccine_Reg.exe.config
+C:\Users\Joerasmus\source\repos\Vaccine_Reg\Vaccine_Reg\bin\Debug\Vaccine_Reg.exe
+C:\Users\Joerasmus\source\repos\Vaccine_Reg\Vaccine_Reg\bin\Debug\Vaccine_Reg.pdb
+C:\Users\Joerasmus\source\repos\Vaccine_Reg\Vaccine_Reg\obj\Debug\Vaccine_Reg.csprojAssemblyReference.cache
+C:\Users\Joerasmus\source\repos\Vaccine_Reg\Vaccine_Reg\obj\Debug\Vaccine_Reg.Form1.resources
+C:\Users\Joerasmus\source\repos\Vaccine_Reg\Vaccine_Reg\obj\Debug\Vaccine_Reg.Properties.Resources.resources
+C:\Users\Joerasmus\source\repos\Vaccine_Reg\Vaccine_Reg\obj\Debug\Vaccine_Reg.csproj.GenerateResource.cache
+C:\Users\Joerasmus\source\repos\Vaccine_Reg\Vaccine_Reg\obj\Debug\Vaccine_Reg.csproj.CoreCompileInputs.cache
+C:\Users\Joerasmus\source\repos\Vaccine_Reg\Vaccine_Reg\obj\Debug\Vaccine_Reg.exe
+C:\Users\Joerasmus\source\repos\Vaccine_Reg\Vaccine_Reg\obj\Debug\Vaccine_Reg.pdb
