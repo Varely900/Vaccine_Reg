@@ -33,7 +33,7 @@ namespace Vaccine_Reg
             SqlCommand cmd = new SqlCommand(dta, con);
             cmd.CommandType = CommandType.Text;
             cmd.Parameters.Clear();
-            cmd.Parameters.AddWithValue("@ID", ID);
+            cmd.Parameters.AddWithValue("@ID",long.Parse(ID));
             cmd.Parameters.AddWithValue("@Surname", Surname);
             cmd.Parameters.AddWithValue("@Firstname", Firstname);
             cmd.Parameters.AddWithValue("@Gender", Gender);
